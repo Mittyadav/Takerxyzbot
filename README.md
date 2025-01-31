@@ -4,7 +4,7 @@
 
 ## How ?
 
-- Register here using new wallet: [https://taker.xyz](https://earn.taker.xyz?start=8KZPY)
+- Register here using new wallet: [https://taker.xyz](https://earn.taker.xyz?start=CK17B)
 - Bind your X/Twitter otherwise you can't start mining
 - Wait till you get faucet reward (0.001 TAKER) to start using bot
 
@@ -18,8 +18,8 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/takerBot.git
-   cd takerBot
+   git clone https://github.com/Mittyadav/Takerxyzbot.git
+   cd Takerxyzbot
    ```
 2. Install dependencies:
    ```bash
